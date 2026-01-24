@@ -1,0 +1,222 @@
+<!DOCTYPE HTML>
+<!--
+	Prologue by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>UArizona Astronomy Prospective Visit</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets.Prologue/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<div id="header">
+
+				<div class="top">
+
+					<!-- Logo -->
+						<div id="logo">
+							<!-- <span class="image avatar48"><img src="images/avatar.jpg" alt="" /></span> -->
+							<h1 id="title"><a href="index.html" target="_self">Arizona Prospective Visit</a></h1>
+							<p><a href="visit.html" target="_self">Prospective Visit</a></p>
+							<p><a href="gradlife.html" target="_self">Grad Life</a></p>
+							<p><a href="program.html" target="_self">Astronomy Program</a></p>
+							<p><a href="gallery.html" target="_self">Gallery</a></p>
+						</div>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="#congrat" id="top-link">CONGRATULATIONS</a></li>
+								<li><a href="#when" id="top-link">WHEN IS THE VISIT?</a></li>
+								<li><a href="#what" id="top-link">WHAT WILL YOU LEARN?</a></li>
+								<li><a href="#1on1" id="top-link">1-ON-1 FACULTY MEETINGS</a></li>
+								<li><a href="#grad" id="top-link">GRAD STUDENT ONLY SESSIONS</a></li>
+								<li><a href="#slack" id="top-link">SLACK CHANNEL</a></li>
+								<li><a href="#schedule" id="top-link">SAMPLE SCHEDULE</a></li>
+								<li><a href="#organizer" id="top-link">YOUR ORGANIZERS
+								</a></li>
+							</ul>
+						</nav>
+
+				</div>
+
+			</div>
+
+		<!-- Main -->
+			<div id="main">
+
+					<section id="congrat" class="two">
+						<div class="container">
+
+							<header>
+								<h1><u>Prospective Visit</u></h1>
+							</header>
+
+
+							<span class="image main"><img src="./images/prospective2023.png"></span>
+
+							<p>Congratulations on having been accepted to the Astronomy &amp; Astrophysics PhD program at the University of Arizona in Tucson!
+							</p>
+
+							<p>We’re glad that we are able to resume in person visits after a couple years of being virtual. One of our favorite times of the year is when we get to show off our world-class department and our lovely town to a new group of possible incoming students, and it’s just not the same on Zoom! Below you can find some information regarding our visit this year.
+							</p>
+						</div>
+					</section>
+
+					<section id="when" class="two">
+						<div class="container">
+
+							<header>
+								<h2>WHEN IS THE VISIT?</h2>
+							</header>
+
+							<p>The main visit will take place on <mark>March 15th - March 19th (Wed-Sun)</mark>, with prospectives arriving Wednesday afternoon or evening and departing Sunday morning. If you are unable to make these dates, please email any of the organizers (contact information below) and we can try to schedule a different visit. 
+							</p>
+						</div>
+					</section>
+
+
+					<section id="what" class="two">
+						<div class="container">
+
+							<header>
+								<h2>WHAT WILL YOU LEARN?</h2>
+							</header>
+
+							<p>During your visit, we will do our best to impress you with how awesome Steward Observatory is. We'll start with breakfast and a Welcome Meeting followed by a round of Faculty Science Talks, where you can learn about the ground-breaking science being pursued here. Then, you'll have one-on-one meetings with current faculty members, giving preference to faculty with similar research interests to yours and those you asked to meet. After lunch, you will receive a tour of the Mirror Lab and get to see some of the largest telescope mirrors in production! The first day will conclude with a dinner led by grad students. 
+							</p>
+							<p>On the next day, breakfast will be provided before getting info on Travel Reimbursement from the Steward Observatory Business Office (SOBO). Next, there will be an hour of student science talks before lunch and more meetings with current faculty members. The rest of the day will be spent with only grad students, who will host a round table on Living in Tucson as a Graduate Student, Minorities in STEM, and another dinner with the grad students.
+							</p>
+							<p>The last day of the visit will begin with brunch at the home of Buell Jannuzi, who is the head of the department, where you'll get a chance to really see our department culture up close. After that, you will explore what it is like to live in Tucson by participating in one of the activities listed in the survey (led by graduate students) then wind down with a party in the evening before you fly back the next day!
+						</div>
+					</section>
+
+
+					<section id="1on1" class="two">
+						<div class="container">
+
+							<header>
+								<h2>1-on-1 Faculty Meetings</h2>
+							</header>
+
+							<p>Remember, WE are trying to recruit YOU! These meetings shouldn't be stressful. It's a chance for you to meet potential research advisors, learn about current research at Steward, and get to know the vibe of the department. If you ever find yourself not knowing what to ask, grad students here have kindly prepared a list of good questions! We've also provided a few similar lists that might be helpful:
+								<ul>
+									<li><a href="./Collected Questions To Ask When Visiting a Graduate Program.pdf" target="_blank">Steward Grad Question list</a></li>
+									<li><a href="https://www.as.arizona.edu/~timestep/for-graduating-students.html" target="_blank">TIMESTEP Graduate School Advice</a>: their sample <a href="https://docs.google.com/document/d/1itP_VHklA-q6X9uHXGrdsCHzg7FWueFe2XRapgUjOLw/edit#" target="_blank">Questions for Graduate Programs </a>
+</li>
+									<li><a href="https://web.ipac.caltech.edu/staff/rebull/goodquestions.html" target="_blank">Caltech: Good Questions to Ask at a Graduate School Visit</a></li>
+								</ul>
+						</p>
+						</div>
+					</section>
+
+
+
+					<section id="grad" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Grad Student Only Sessions</h2>
+							</header>
+
+							<p>We will have a few meetings where faculty will not be present. Here, we hope you’ll ask us current grad students all sorts of questions, especially ones that would be awkward to ask in front of faculty members. We usually know the department gossip and can tell you anything you want to know, like department culture, activities we like to do together, and life in Tucson. 
+							</p>
+						</div>
+					</section>
+
+
+					<section id="slack" class="two">
+						<div class="container">
+
+							<header>
+								<h2>SLACK CHANNEL</h2>
+							</header>
+
+							<p>In addition to all of the meetings we will set up for you, we have created a slack channel for you! Check your email or contact one of the coordinators if you cannot find your invitation. This is a space where you can chat with current grad students to ask about the program, potential advisors, life in Tucson, or anything else!
+							</p>
+						</div>
+					</section>
+
+
+					<section id="schedule" class="two">
+						<div class="container">
+
+							<header>
+								<h2>SAMPLE SCHEDULE</h2>
+							</header>
+
+							<p>Below is a sample schedule for the visit days. While this won’t be exactly your schedule, since the faculty meetings will be with specific people, it should give you a good sense of what to expect.
+								<!-- <center><img src="./images/schedule1.png" width="100%"><img src="./images/schedule2.png" width="100%"><img src="./images/schedule3.png" width="100%"></center> -->
+								<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR4wanXq0wPH3AXDtwc_e2IyIsszqJyiLp_TsnxtErLxGeKh-rXWX5NjQIF8wqrNSIZAy641W9k9kiC/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width=100% height=1300></iframe>
+							</p>
+
+								
+						</div>
+					</section>
+
+
+					<section id="organizer" class="two">
+						<div class="container">
+
+							<header>
+								<h2>YOUR ORGANIZERS</h2>
+							</header>
+
+							<p>Our names are Jeniveve Pearson and Jasmin Washington, we are 3rd year graduate students at Steward. This year, we are running the prospective visit. We hope this visit can give you a comprehensive preview of the science from our department and what it’s like to live in Tucson, AZ as a grad student. Spoiler, it's pretty rad! If you need to get in touch with us, shoot us an email or send us a Slack message.  
+							</p>
+
+							<ul>
+								<li>Jeniveve Pearson: &ensp;<a href="mailto:jenivevepearson@arizona.edu">jenivevepearson@arizona.edu</a></li>
+								<li>Jasmin Washington:  &ensp;<a href="mailto:washingtonj@arizona.edu">washingtonj@arizona.edu</a></li>
+							</ul>
+
+
+							<center>
+
+							<div class="item" style="width:200px; display: inline-block">
+							    <img class="profile-pic" src="./images/organizers/Jeniveve.jpeg" />
+							    <span class="caption"><a href="mailto:jenivevepearson@arizona.edu">Jeniveve Pearson</a></span>
+							</div>
+							<div class="item" style="width:200px; display: inline-block">
+							    <img class="profile-pic" src="./images/organizers/Jasmin.jpg" />
+							    <span class="caption"><a href="mailto:washingtonj@arizona.edu">Jasmin Washington</a></span>
+							</div>
+							
+							</center>
+
+							<p>
+							</p>
+							<small>
+								This website was updated by Jasmin Washington and Jeniveve Pearson in 2023. Much of the material here is based upon earlier websites with contributions from Eric Mamajek, Jane Rigby, Karen Knierman, Iva Momcheva, Kristian Finlator, Moire Prescott, Suresh Sivanandam, Brandon Swift, Dennis Just, Tim Arnold, Evan Schneider, Jordan Stone, Ben Rackham, Rachel Smullen, Ekta Patel, Peter Senchyna, David Ball, Adam Sutherland, Ryan Boyden, Jeremy Dietrich, Rachael Amaro, Raphael Hviding, Logan Pearce, and Zuyi Chen. We also thank the current and past steward grads for their amazing pictures that are used here.
+							</small>
+
+						</div>
+					</section>
+		</div>
+
+		<!-- Footer -->
+			<div id="footer">
+
+				<!-- Copyright -->
+					<ul class="copyright">
+						<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets.Prologue/jquery.min.js"></script>
+			<script src="assets.Prologue/jquery.scrolly.min.js"></script>
+			<script src="assets.Prologue/jquery.scrollex.min.js"></script>
+			<script src="assets.Prologue/browser.min.js"></script>
+			<script src="assets.Prologue/breakpoints.min.js"></script>
+			<script src="assets.Prologue/util.js"></script>
+			<script src="assets.Prologue/main.js"></script>
+
+	</body>
+</html>

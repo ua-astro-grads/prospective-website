@@ -1,0 +1,494 @@
+<!DOCTYPE HTML>
+<!--
+	Prologue by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>UArizona Astronomy Prospective Visit</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets.Prologue/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<div id="header">
+
+				<div class="top">
+
+					<!-- Logo -->
+						<div id="logo">
+							<!-- <span class="image avatar48"><img src="images/avatar.jpg" alt="" /></span> -->
+							<h1 id="title"><a href="index.html" target="_self">Arizona Prospective Visit</a></h1>
+							<p><a href="visit.html" target="_self">Prospective Visit</a></p>
+							<p><a href="gradlife.html" target="_self">Grad Life</a></p>
+							<p><a href="program.html" target="_self">Astronomy Program</a></p>
+							<p><a href="gallery.html" target="_self">Gallery</a></p>
+						</div>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="#life" id="top-link">Student Life</a></li>
+								<li><a href="#tucson" id="top-link">Tucson</a></li>
+								<li><a href="#expense" id="top-link">Living Expenses</a></li>
+								<li><a href="#outdoors" id="top-link">The outdoors</a></li>
+								<li><a href="#indoors" id="top-link">Indoor Activities</a></li>
+								<li><a href="#athletics" id="top-link">ATHLETICS</a></li>
+								<li><a href="#arts" id="top-link">Arts</a></li>
+								<li><a href="#food" id="top-link">Food</a></li>
+								<li><a href="#international" id="top-link">International Students</a></li>
+								<li><a href="#others" id="top-link">Others</a></li>
+							</ul>
+						</nav>
+
+				</div>
+
+			</div>
+
+		<!-- Main -->
+			<div id="main">
+
+					<section id="life" class="two">
+						<div class="container">
+
+							<header>
+								<h1><u>Student Life</u></h1>
+							</header>
+
+							<span class="image main"><img src="./images/student_life.jpg"></span>
+
+							<p>
+								It would be impossible to write down all of the fun activities our graduate students participate in outside of their research and classes, but here you can find a good number of them organized into broad categories. If you have an interest or a hobby not mentioned here, ask the current graduate students to see if anyone else knows about it too!
+							</p>
+
+							<p>
+								We have also included on <a href="gallery.html" target="_self" style="color:#0096FF;">the Gallery page</a> an assortment of photos showing us having fun within Tucson, across Arizona, and around the World!
+							</p>
+
+						</div>
+					</section>
+
+					<section id="tucson" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Tucson</h2>
+							</header>
+
+							<p>Tucson is the second most populous city in Arizona with just over 1 million inhabitants in the entire metropolitan area. Tucson is located in the Sonoran Desert, which makes it a very predictable climate to live in. Every season (except summer) boasts exceptional weather (see graphic below). Yes, it's hot in the summer months, but residents of Tucson often escape the summer heat by heading up to nearby Mount Lemmon, which, at 9157 ft (2791 m), boasts summer highs in the 70s °F (low 20s °C) and snow in the winter months. <br>
+							</p>
+							<center>
+							<a href="https://www.timeanddate.com/weather/usa/tucson/climate" target="_blank"><img src="./images/weather.png" width="70%"></a>
+							</center>
+
+							<br></br>
+							<div class="row">
+							<div class="column">
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/Untitled_Panorama1.jpeg" target="_blank">
+							<img src="./images/gallery_gradlife/Untitled_Panorama1.jpeg" />
+							<span class="caption">Santa Catalina Mountains</span></a>
+							</div>
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/desert_museum.jpg" target="_blank">
+							<img src="./images/gallery_gradlife/desert_museum.jpg" />
+							<span class="caption">View from Desert Museum</span></a>
+							</div>
+							</div>
+
+							<div class="column">
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/biosphere.jpg" target="_blank">
+							<img src="./images/gallery_gradlife/biosphere.jpg" />
+							<span class="caption">Biosphere2</span></a>
+							</div>
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/10.jpg" target="_blank">
+							<img src="./images/gallery_gradlife/10.jpg" />
+							<span class="caption">Saguaro Sunset</span></a>
+							</div>
+							</div>
+
+							<div class="column">
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/HimmelPark.jpg" target="_blank">
+							<img src="./images/gallery_gradlife/HimmelPark.jpg" />
+							<span class="caption">Himmel Park</span></a>
+							</div>
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/Untitled_Panorama6.jpeg" target="_blank">
+							<img src="./images/gallery_gradlife/Untitled_Panorama6.jpeg" />
+							<span class="caption">Snow</span></a>
+							</div>
+							</div>
+							</div>
+
+
+
+						</div>
+					</section>
+
+
+					<section id="expense" class="two">
+						<div class="container">
+
+							<header>
+								<h2 >Living Expenses</h2>
+							</header>
+
+							<p>Compared to other cities in the US, Tucson still has a relatively low cost of living. Graduate students typically spend between $600 and $1100 a month on rent, including utilities, and spend anywhere between $150 and $400 on groceries a month. Most graduate students live with a roommate, or two, but quite a few choose to live alone. Students typically live within five miles of campus, which can be reached easily by car, bike, public transportation, or even foot. If you choose to stay with a grad student host during your visit, you'll get a chance to see how and where grad students at Steward live, but make sure to ask other current students to show off where they live regardless!
+							</p>
+						</div>
+					</section>
+
+
+					<section id="outdoors" class="two">
+						<div class="container">
+
+							<header>
+								<h2>The Outdoors</h2>
+							</header>
+
+							<p>Thanks to the amazing weather, many graduate students spend their free time outdoors. Groups of students regularly go hiking, rock climbing, or birding in the nearby Catalina Mountains or take longer trips to the many beautiful parks around Arizona. When it gets too hot in the summer, we either turn nocturnal, spend more time indoors, or find higher elevation to cool off. In the winters, groups of students take skiing trips to the nearby ski-town on Mt.Lemmon or drive up to Flagstaff! Tucson is also an incredibly friendly bike city, with many roads having large dedicated bike lanes. Many graduate students get around on bikes, and cycle recreationally as well! Tucson is surrounded by over 100 miles of paved pedestrian and bike-only paths, known as “The Loop”. Pre-pandemic, graduate students, postdocs, and faculty spend a full day in the Spring biking all over Tucson on a tour of local breweries, known as El Tour de Biere and plans are in place to bring this back in the near future.
+							</p>
+
+							<br></br>
+							<div class="row">
+							<div class="column">
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/pumpkin_picking.png" target="_blank">
+							<img src="./images/gallery_gradlife/pumpkin_picking.png" />
+							<span class="caption">Pumpkin Picking</span></a>
+							</div>
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/camping-in-tuscon-mountain-park.jpeg" target="_blank">
+							<img src="./images/gallery_gradlife/camping-in-tuscon-mountain-park.jpeg" />
+							<span class="caption">Camping in Tuscon Mountain Park</span></a>
+							</div>
+							</div>
+
+							<div class="column">
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/30.jpg" target="_blank">
+							<img src="./images/gallery_gradlife/30.jpg" />
+							<span class="caption">Cycling</span></a>
+							</div>
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/hiking.JPG" target="_blank">
+							<img src="./images/gallery_gradlife/hiking.JPG" />
+							<span class="caption">Hiking</span></a>
+							</div>
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/IMG_6087.jpeg" target="_blank">
+							<img src="./images/gallery_gradlife/IMG_6087.jpeg" />
+							<span class="caption">Grand Canyon</span></a>
+							</div>
+							</div>
+
+							<div class="column">
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/DSC_4874.jpeg" target="_blank">
+							<img src="./images/gallery_gradlife/DSC_4874.jpeg" />
+							<span class="caption">What is the astronomer looking at?</span></a>
+							</div>
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/DSC_7477.jpeg" target="_blank">
+							<img src="./images/gallery_gradlife/DSC_7477.jpeg" />
+							<span class="caption">Hiking Rest</span></a>
+							</div>
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/DSC_4560.jpeg" target="_blank">
+							<img src="./images/gallery_gradlife/DSC_4560.jpeg" />
+							<span class="caption">Hiking</span></a>
+							</div>
+							</div>
+							</div>
+
+
+						</div>
+					</section>
+
+
+
+					<section id="indoors" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Indoor Activities</h2>
+							</header>
+
+							<p>The outdoors isn’t for everyone, and that’s okay! Tucson has lots of options for indoor fun as well. Many students pass their free time playing video games and/or board games, either on their own or with other students. Multiple D&amp;D groups, ranging from beginner to advanced, have been established among the grad students, but we're always looking for new campaigners! Groups of graduate students also attend weekly pub Trivia Nights. If you love to read, the Tucson Public Library system is really good, especially for a smaller city, and there are several branches all across Tucson. 
+							</p>
+
+							<br/>
+							<div class="row">
+							<div class="column">
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/IMG_3157.jpeg" target="_blank">
+							<img src="./images/gallery_gradlife/IMG_3157.jpeg" />
+							<span class="caption">Gaming</span></a>
+							</div>
+							</div>
+							
+						</div>
+					</section>
+
+
+					<section id="athletics" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Athletics</h2>
+							</header>
+
+							<p>Steward graduate students are involved in a variety of sports within the University and outside of it! We usually scrape together passable intramural volleyball and softball teams, and some students are involved in local ultimate frisbee and soccer leagues. At one point there was a large contingent of students practicing aerial silks at the local circus academy, and we even have a student or two who fence with the University team!
+							</p>
+
+							<br/>
+							<div class="row">
+							<div class="column">
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/17.jpg" target="_blank">
+							<img src="./images/gallery_gradlife/17.jpg" />
+						    <span class="caption">Volleyball</span></a>
+							</div>
+							</div>
+							<div class="column">
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/softball.jpg" target="_blank">
+							<img src="./images/gallery_gradlife/softball.jpg" />
+							<span class="caption">Softball</span></a>
+							</div>
+							</div>
+							<div class="column">
+							<div class="item">
+							<a href="./images/gallery_gradlife2023/hockey1.jpg" target="_blank">
+							<img src="./images/gallery_gradlife2023/hockey1.jpg" />
+						    <span class="caption">Hockey</span></a>
+							</div>
+							</div>
+							<div class="column">
+							<div class="item">
+							<a href="./images/gallery_gradlife2023/hockey2.jpg" target="_blank">
+							<img src="./images/gallery_gradlife2023/hockey2.jpg" />
+						    <span class="caption">Hockey</span></a>
+							</div>
+							</div>
+							</div>
+
+						</div>
+					</section>
+
+
+					<section id="arts" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Arts</h2>
+							</header>
+
+							<p>We also like to spend our time getting up to various creative activities, like pottery, crochet, sketching, knitting, embroidery, painting, photography, and even glass blowing! Craft nights and paint nights are popular get-togethers. If acting, movie making, or comedy is a passion of yours, you might be interested in a beloved Steward tradition known as the Grad Play. At the end of each academic year, graduate students come together to write, record, act in, and produce a series of skits poking light fun at department happenings over the last year! In addition, some Broadway musicals and plays occasionally come to Tucson (e.g. Les Misérables, The Book of Mormon, and Silent Sky), and graduate students get discounts on tickets. Tucson has a vibrant artisan community; in the cooler months, there are frequent outdoor artisan markets where grad students can shop unique finds from local artists at reasonable prices. Finally, Tucson is a beautiful city to look at. With <a href="https://thisistucson.com/tucsonlife/80-amazing-tucson-murals-and-where-to-find-them/article_9f5d841a-39ab-11e7-8840-8bd7d101486e.html">over 80 murals</a> around town, finding them all is a great way to get to know the city.
+							</p>
+
+							<h4>Graduate Student Plays:</h4>
+								<ul>
+									<li><a href="http://www.youtube.com/channel/UCJWbynorVwSDL3zh78fQs5w" target="_blank">Assorted Grad Plays I</a></li>
+									<li><a href="https://www.youtube.com/channel/UCcBetuOVQ6eacy9qYeeqBDg" target="_blank">Assorted Grad Plays II</a></li>
+								</ul>
+
+
+							<p>There are a wide variety of musicians at Steward, including (but not limited to!) piano, banjo, percussion, guitar, viola, and trumpet. When we have time, some of us get together to play music and jam!
+							In Tucson, there are also concerts by  <a href="https://www.tucsonsymphony.org/" target="_blank">Tucson Symphony Orchestra</a>,
+							<a href="http://www.youtube.com/channel/UCJWbynorVwSDL3zh78fQs5w" target="_blank">Civic Orchrstra of Tucson (sometimes free!),</a> and shows from <a href="https://broadwayintucson.com/" target="_blank">Broadway in Tucson</a>.
+							</p> 
+
+
+							<br></br>
+							<div class="row">
+							<div class="column">
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/paint_night.jpg" target="_blank">
+							<img src="./images/gallery_gradlife/paint_night.jpg" />
+						    <span class="caption">Paint Night</span></a>
+							</div>
+							</div>
+							<div class="column">
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/TCB_bandrehearsal.jpg" target="_blank">
+							<img src="./images/gallery_gradlife/TCB_bandrehearsal.jpg" />
+						    <span class="caption">TCB Band Rehearsal</span></a>
+							</div>
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/2.jpg" target="_blank">
+							<img src="./images/gallery_gradlife/2.jpg" />
+						    <span class="caption">Grad Play</span></a>
+							</div>
+							</div>
+							</div>
+
+						</div>
+					</section>
+
+
+					<section id="food" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Food</h2>
+							</header>
+
+							<p>The food in Tucson is some of the best in the world! In 2016, UNESCO designated Tucson as a World City of Gastronomy. The local Mexican food is unparalleled and there are good spots for many kinds of cuisine across the city. If you love food, Tucson is the place to be! Many of our graduate students also enjoy cooking and will frequently bring treats into the department to share. This past year, the grad students planned a Thanksgiving potluck for the whole department. It was so delicious, we are planning to make it an annual tradition!
+							</p>
+
+							<div class="row">
+							<div class="column">
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/local_coffee_truck.jpg" target="_blank">
+							<img src="images/gallery_gradlife/local_coffee_truck.jpg"/>
+							<span class="caption">Local Coffee Truck</span></a>
+							</div>
+							</div>
+
+							<div class="column">
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/borderlands-flight.JPG" target="_blank">
+							<img src="images/gallery_gradlife/borderlands-flight.JPG" />
+							<span class="caption">Borderlands-Flight</span></a>
+							</div>
+							<div class="item">
+							<a href="./images/gallery_gradlife2023/ramen.jpg" target="_blank">
+							<img src="images/gallery_gradlife2023/ramen.jpg" />
+							<span class="caption">JR Ramen</span></a>
+							</div>
+							</div>
+
+							<div class="column">
+							<div class="item">
+							<a href="./images/gallery_gradlife_orig/can_confirm.JPEG" target="_blank">
+							<img src="images/gallery_gradlife/can_confirm.JPEG" />
+							<span class="caption">Can Confirm</span></a>
+							</div>
+							</div>
+							</div>
+
+						</div>
+					</section>
+
+
+					<section id="nightlife" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Night Life</h2>
+							</header>
+
+							<p>Tucson has a wonderful downtown with many bars and restaurants! On Fridays, graduate students choose a bar downtown to relax and hang out after work. One of the most popular spots to enjoy the nightlife is Hotel Congress, which has delicious nachos, great drinks, and an outdoor dancing area. 
+							</p>
+							
+
+						</div>
+					</section>
+
+
+					<section id="international" class="two">
+						<div class="container">
+
+							<header>
+								<h2>International Students</h2>
+							</header>
+
+							<p> Steward is home to a large number of international students, postdoc, and faculty from everywhere aound the world (Belgium, China, Greece, India, Iran, Italy, Malaysia, South Korea, Taiwan, etc.).  We understand that international students might have a more difficult time after moving to an unfamiliar place. And there is the <a href="https://sites.google.com/view/sodei/international-scholars" target="_blank">SODEI International Scholars Task Force</a> that helps to promote international scholars' well-being and to bridge people from various cultures (both international and domestic). <a href="https://sites.google.com/view/sodei/international-scholars/allyship-program" target="_blank"> An International Scholars Allyship Program</a> has been launched is help incoming international scholars with their tranistion to US and integration into our community. Thinking about something to do during a weekend or holiday? Check their events/social activities!
+							</p>
+
+
+						<div class="row">
+						<div class="column2">
+						<div class="item">
+						<a href="./images/gallery_gradlife_orig/Colossal_Cave.jpeg" target="_blank">
+					    <img src="images/gallery_gradlife/Colossal_Cave.jpeg" />
+					    <span class="caption">Colossal Cave</span></a>
+						</div>
+						<div class="item">
+						<a href="./images/gallery_gradlife_orig/Aspen_Draw_Trail.jpeg" target="_blank">
+					    <img src="images/gallery_gradlife/Aspen_Draw_Trail.jpeg" />
+					    <span class="caption">Aspen Draw Trail</span></a>
+						</div>
+						</div>
+
+						<div class="column2">
+						<div class="item">
+						<a href="./images/gallery_gradlife_orig/Mt._Lemmon.jpeg" target="_blank">
+					    <img src="images/gallery_gradlife/Mt._Lemmon.jpeg" />
+					    <span class="caption">Mt._Lemmon</span></a>
+						</div>
+						<div class="item">
+						<a href="./images/gallery_gradlife_orig/Guadalupe_MountainsNP.jpg" target="_blank">
+					    <img src="images/gallery_gradlife/Guadalupe_MountainsNP.jpg" />
+					    <span class="caption">Guadalupe_MountainsNP</span></a>
+						</div>
+						</div>
+
+						</div>
+					</section>
+
+
+					<section id="others" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Life in Tucson, Arizona:</h2>
+							</header>
+
+							<p>
+							<ul>
+							  <li><a href="http://en.wikipedia.org/wiki/Tucson,_Arizona" target="_blank">Tucson, AZ at Wikipedia</a></li>
+							  <li><a href="http://www.visittucson.org/" target="_blank">Tucson Visiting Information</a></li>
+							  <li><a href="http://www.tucsonweekly.com/" target="_blank">The Tucson Weekly</a> (includes activities calendars)</li>
+							  <li><a href="http://www.uapresents.org/" target="_blank">UofA Presents</a> (on-campus concerts and plays)</li>
+							  <li><a href="http://www.rialtotheatre.com/" target="_blank">Rialto Theatre</a></li>
+							  <li><a href="http://www.hotelcongress.com/club" target="_blank">Club Congress</a></li>
+							  <li><a href="http://www.desertmuseum.org/">Arizona-Sonora Desert Museum</a></li>
+							  <li><a href="http://www.nps.gov/sagu/" target="_blank">Saguaro National Park</a></li>
+							  <li><a href="http://www.tucsonbotanical.org/" target="_blank">Tucson Botanical Gardens</a></li>
+							  <li><a href="http://www.visittucson.org/things-to-do/restaurants/farmers-markets/#markets" target="_blank">Tucson Farmer's Markets</a></li>
+							  <li><a href="http://www.tucsoncsa.org/" target="_blank">Tucson Community Supported Agriculture</a></li>
+							  <li><a href="http://www.tucsonrodeo.com/" target="_blank">La Fiesta de los Vaqueros (Rodeo Festival)</a></li>
+							  <li><a href="http://www.allsoulsprocession.org/" target="_blank">All Souls Procession Weekend</a></li>
+							  <li><a href="http://www.tucsonswap.com/" target="_blank">Tucson Swap Meet</a></li>
+							  <li><a href="http://www.tucsonmeetyourself.org/" target="_blank">Tucson Meet Yourself</a></li>
+							  <li><a href="https://arizonatheatre.org/" target="_blank">Arizona Theatre Company</a></li>
+							  <li><a href="http://www.azopera.com/" target="_blank">Arizona Opera</a></li>
+							  <li><a href="http://www.tucsonsymphony.org/" target="_blank">Tucson Symphony Orchestra</a></li>
+							  <li><a href="http://arizona.renfestinfo.com/" target="_blank">Arizona Renaissance Festival</a></li>
+							</ul>					
+							</p>
+						</div>
+					</section>
+
+
+		</div>
+
+		<!-- Footer -->
+			<div id="footer">
+
+				<!-- Copyright -->
+					<ul class="copyright">
+						<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets.Prologue/jquery.min.js"></script>
+			<script src="assets.Prologue/jquery.scrolly.min.js"></script>
+			<script src="assets.Prologue/jquery.scrollex.min.js"></script>
+			<script src="assets.Prologue/browser.min.js"></script>
+			<script src="assets.Prologue/breakpoints.min.js"></script>
+			<script src="assets.Prologue/util.js"></script>
+			<script src="assets.Prologue/main.js"></script>
+
+	</body>
+</html>
