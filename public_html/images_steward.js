@@ -19,10 +19,6 @@ var stewardImages = [
 "bok_telescope_view.jpg",
 "bok_twilight.JPEG",
 "clay-and-baade.jpg",
-"Clay-Telescope-1.HEIC",
-"Clay-Telescope-2.HEIC",
-"Clay-Telescope-3.HEIC",
-"Clay-Telescope-4.HEIC",
 "Clay-Telescope-Dance-12-07-2022.mp4",
 "deepskywineglass_winetour.jpg",
 "dont_tell_buell_i_used_the_bok_to_take_a_selfie.jpg",
@@ -70,7 +66,6 @@ var stewardImages = [
 "KPNO_BokMayallSunset.jpg",
 "KPNO-Mar2024-20.jpeg",
 "lbt-wiphu_orig.jpg",
-"MagAO-X-on-Clay-Telescope.HEIC",
 "magao-x_people_looking_at_things.jpeg",
 "magellan-clay-baade.jpg",
 "magellan-clay.jpg",
@@ -90,7 +85,6 @@ var stewardImages = [
 "Sams_firstnightobs.jpeg",
 "Sams_IRAM.jpeg",
 "Sams_MMT.jpeg",
-"Sebastiaan-MagAOX.HEIC",
 "SpaceDrafts.JPG",
 "SpaceDrafts-Moon-or-Fryingpan.jpeg",
 "SunsetBeforeStormKittPeak2.png",
@@ -98,7 +92,6 @@ var stewardImages = [
 "sunset-from-magellan.jpeg",
 "the-mall.jpg",
 "TheNorthRidgeKittPeak.png",
-"Viscachas-At-LCO.HEIC",
 ]
 
 var gradlifeImages = [
